@@ -1,0 +1,15 @@
+{
+  "name": "Piped",
+  
+  "repository": "https://github.com/stremdiretta/Piped",
+  "logo": "https://raw.githubusercontent.com/searx/searx/master/searx/static/themes/oscar/img/logo_searx_a.png",
+ 
+  "stack": "container",
+  "env": {
+    "INSTANCE_NAME": {
+      "description": "Instance name.",
+      "value": "Piped",
+      "required": false
+    }
+  }
+}
